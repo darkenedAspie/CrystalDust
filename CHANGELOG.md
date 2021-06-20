@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v3.0.0-alpha.0.5] - 2021-01-04
+### Fixed
+
+- Fix moving items around in the item PC.
+- Fix chair in front of the Day-Care Lady's desk.
+- Fix metatile in Goldenrod Dept. Store 1F not being accessible from the right.
+- Fix top Card Flip machine in Game Corner not being usable.
+- Picnicker Erin on Route 46 now uses the right overworld sprite.
+- Violet City trader no longer moves after trade completes.
+- Sanitized department store tileset for incorrect metatile behaviors.
+- Mom no longer calls every time you talk to the Day-Care Man outdoors.
+- Fix a crash when Mimic is used.
+- Fix collisions with trees on 3F and 4F of Goldenrod Dept. Store.
+
+### Changed
+
+- Made Game Corner TMs not be duplicates of Goldenrod Dept. Store TMs.
+
 ## [v3.0.0-alpha.0.4] - 2020-12-30
 ### Fixed
 
@@ -48,6 +66,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release, up through Sudowoodo event on Route 36
 
-[unreleased]: https://github.com/Sierraffinity/CrystalDust/compare/v3.0.0-alpha.0.2...HEAD
+[unreleased]: https://github.com/Sierraffinity/CrystalDust/compare/v3.0.0-alpha.0.5...HEAD
+[v3.0.0-alpha.0.5]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.5
+[v3.0.0-alpha.0.4]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.4
+[v3.0.0-alpha.0.3]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.3
 [v3.0.0-alpha.0.2]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.2
 [v3.0.0-alpha.0.1]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.1
